@@ -1,7 +1,7 @@
 
 # PokeDIO - Pokémon Battle Smart Contract
 
-![PokeDIO](https://example.com/logo.png) <!-- Altere o link para uma imagem representativa do projeto -->
+![PokeDIO](https://ipfs.io/ipfs/QmaH6rupaTYFRYjtSFuqbfn2gn2gr4QFLSsE8T78qLquHf?filename=rambomon.png) <!-- Altere o link para uma imagem representativa do projeto -->
 
 ## Descrição
 
